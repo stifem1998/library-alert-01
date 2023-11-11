@@ -1,0 +1,29 @@
+# Dependencias
+/node_modules
+
+# Archivos compilados
+/dist
+
+# Archivos de configuración de TypeScript
+/tsconfig.tsbuildinfo
+
+# Archivos de registro y directorios
+npm-debug.log
+yarn-error.log
+
+# Directorios de cobertura de Jest
+/coverage
+
+# Archivos de entorno
+.env
+.env.local
+
+# Archivos de editor
+/.vscode
+/.idea
+*.swp
+*.swo
+
+# Otros archivos y carpetas
+.DS_Store
+Thumbs.db
